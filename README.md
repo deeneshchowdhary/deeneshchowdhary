@@ -2,7 +2,7 @@
 
 I’m a full-stack software developer with 10+ years of experience building, maintaining, and improving web applications, APIs, databases, e-commerce platforms, and internal business systems.
 
-My recent professional work has focused on **Angular, TypeScript, Node.js, SQL, and cloud-hosted applications**. I also have experience with **C#, .NET, Microsoft SQL Server, PHP, ColdFusion, IVR systems, and enterprise reporting platforms**.
+My recent professional work has focused on **Angular, TypeScript, Node.js, SQL, and cloud-hosted applications**. I also have experience with **C#, .NET, Microsoft SQL Server, PHP, IVR systems, and enterprise reporting platforms**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -18,7 +18,7 @@ My recent professional work has focused on **Angular, TypeScript, Node.js, SQL, 
 
 ## About Me
 
-- Build and support full-stack applications using Angular, TypeScript, Node.js, REST APIs, and SQL
+- Build and support full-stack applications using Angular, TypeScript, Node.js, React, Next.Js REST APIs, and SQL
 - Develop reusable frontend components, business workflows, integrations, and backend services
 - Troubleshoot production issues across applications, APIs, databases, and cloud environments
 - Improve existing systems through performance optimization, automation, testing, and maintainable architecture
@@ -33,7 +33,7 @@ Before my current role, I completed more than **100 freelance development projec
 
 ### Frontend
 
-- Angular, TypeScript, JavaScript, and RxJS
+- Angular, React, TypeScript, JavaScript, and RxJS
 - HTML5, CSS3, SCSS, and responsive web development
 - React and Next.js for independent projects
 - WordPress, Bricks, Elementor, and custom theme development
