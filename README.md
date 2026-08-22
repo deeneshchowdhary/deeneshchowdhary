@@ -2,7 +2,7 @@
 
 I’m a full-stack software developer with 10+ years of experience building, maintaining, and improving web applications, APIs, databases, e-commerce platforms, and internal business systems.
 
-My recent professional work has focused on **Angular, TypeScript, Node.js, SQL, and cloud-hosted applications**. I also have experience with **C#, .NET, Microsoft SQL Server, PHP, IVR systems, and enterprise reporting platforms**.
+My recent professional work has focused on **Angular,React, TypeScript, Node.js, SQL, and cloud-hosted applications**. I also have experience with **C#, .NET, Microsoft SQL Server, PHP, IVR systems, and enterprise reporting platforms**.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
