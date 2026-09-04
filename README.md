@@ -2,7 +2,7 @@
 
 I’m a senior full-stack software engineer with nearly 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
 
-My production work has supported **35,000+ users** and more than **2 million transaction line items**. I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support.
+My production experience includes enterprise donation and payment systems handling **millions of transaction records**, more than **100 paid freelance projects**, and a database migration that reduced the transfer footprint by approximately **10:1**. I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support.
 
 [Portfolio](https://deeneshchowdhary.github.io/deenesh/) · [LinkedIn](https://www.linkedin.com/in/deeneshchowdhary/) · [EnvCause on PyPI](https://pypi.org/project/envcause/)
 
