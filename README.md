@@ -1,8 +1,8 @@
 # Hi, I’m Deenesh Chowdhary 👋
 
-I’m a senior full-stack software engineer with nearly 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
+I’m a senior-level full-stack software engineer with nearly 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
 
-My production experience includes enterprise donation and payment systems handling **millions of transaction records**, more than **100 paid freelance projects**, and a database migration that reduced the transfer footprint by approximately **10:1**. I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support.
+My experience includes enterprise donation and payment systems handling **millions of transaction records**, more than **100 paid freelance projects**, and a database migration that reduced the transfer footprint by approximately **10:1**.
 
 [Portfolio](https://deeneshchowdhary.github.io/deenesh/) · [LinkedIn](https://www.linkedin.com/in/deeneshchowdhary/) · [EnvCause on PyPI](https://pypi.org/project/envcause/)
 
@@ -18,33 +18,30 @@ My production experience includes enterprise donation and payment systems handli
 
 ## Engineering Focus
 
-- Full-stack applications with Angular, React, TypeScript, Node.js, and C#/.NET
-- REST APIs, authentication, background processing, and system integrations
-- SQL Server, PostgreSQL, MySQL, schema design, indexing, and query optimization
+- Full-stack applications with C#/.NET, Angular, React, TypeScript, and Node.js
+- REST APIs, background processing, authentication, and system integrations
+- SQL Server, PostgreSQL, MySQL, database design, and performance optimization
 - Azure, AWS, Google Cloud, Docker, automated testing, and CI/CD
-- Legacy modernization, production troubleshooting, and application reliability
-- Code review, mentoring, technical documentation, and project ownership
-
-Before my current role, I completed more than **100 freelance projects** for businesses, startups, and agencies. This experience strengthened my ability to understand unfamiliar systems quickly, communicate with stakeholders, and turn operational problems into maintainable software.
+- Legacy modernization, production troubleshooting, code review, and mentoring
 
 ## Featured Projects
 
 ### [EnvCause](https://github.com/deeneshchowdhary/EnvCause)
 
-Open-source Python configuration-debugging tool that uses delta debugging to isolate the smallest set of changes responsible for a failure. Available on [PyPI](https://pypi.org/project/envcause/).
+Open-source Python tool that uses delta debugging to isolate configuration changes responsible for failures. Available on [PyPI](https://pypi.org/project/envcause/).
 
 ### [JobTrack](https://github.com/deeneshchowdhary/JobTrack)
 
-ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated tests, observability, and an Azure DevOps deployment pipeline.
+ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated tests, observability, and Azure DevOps deployment.
 
 ### [Water Monkey](https://github.com/deeneshchowdhary/watermonkey)
 
-Local-first FinOps desktop application built with React, Rust, and Tauri to identify avoidable cloud costs while protecting credentials in the native operating-system keychain.
+Local-first FinOps desktop application built with React, Rust, and Tauri to identify avoidable cloud costs while protecting credentials in the native OS keychain.
 
 ## How I Work
 
-I enjoy working on real systems where software must be reliable, understandable, and useful. I am especially comfortable entering an established codebase, learning its architecture, diagnosing difficult problems, and delivering practical improvements without unnecessary complexity.
+I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support. I am especially comfortable learning established systems, diagnosing difficult problems, and delivering maintainable improvements without unnecessary complexity.
 
 I use AI-assisted engineering workflows where they improve productivity while remaining responsible for architecture, correctness, security, testing, and maintainability.
 
-📍 Oklahoma, USA · Open to remote senior software engineering opportunities
+📍 Oklahoma, USA 
