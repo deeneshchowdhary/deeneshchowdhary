@@ -24,21 +24,21 @@ My production work has supported **35,000+ users** and more than **2 million tra
 - Legacy modernization, production troubleshooting, and application reliability
 - Code review, mentoring, technical documentation, and project ownership
 
-Before my current role, I completed more than **100 freelance projects** for businesses, startups, and agencies. This work strengthened my ability to understand unfamiliar systems quickly, communicate with stakeholders, and turn operational problems into maintainable software.
+Before my current role, I completed more than **100 freelance projects** for businesses, startups, and agencies. This experience strengthened my ability to understand unfamiliar systems quickly, communicate with stakeholders, and turn operational problems into maintainable software.
 
-## Selected Projects
+## Featured Projects
 
 ### [EnvCause](https://github.com/deeneshchowdhary/EnvCause)
 
-An open-source Python configuration-debugging tool that uses delta debugging to identify the smallest set of configuration changes responsible for a failure. Published on [PyPI](https://pypi.org/project/envcause/).
+Open-source Python configuration-debugging tool that uses delta debugging to isolate the smallest set of changes responsible for a failure. Available on [PyPI](https://pypi.org/project/envcause/).
 
 ### [JobTrack](https://github.com/deeneshchowdhary/JobTrack)
 
-An ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated testing, observability, and an Azure DevOps deployment pipeline.
+ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated tests, observability, and an Azure DevOps deployment pipeline.
 
 ### [Water Monkey](https://github.com/deeneshchowdhary/watermonkey)
 
-A local-first FinOps desktop application built with React, Rust, and Tauri to identify avoidable cloud costs while keeping credentials in the native operating-system keychain.
+Local-first FinOps desktop application built with React, Rust, and Tauri to identify avoidable cloud costs while protecting credentials in the native operating-system keychain.
 
 ## How I Work
 
