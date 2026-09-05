@@ -34,10 +34,6 @@ Open-source Python tool that uses delta debugging to isolate configuration chang
 
 ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated tests, observability, and Azure DevOps deployment.
 
-### [Water Monkey](https://github.com/deeneshchowdhary/watermonkey)
-
-Local-first FinOps desktop application built with React, Rust, and Tauri to identify avoidable cloud costs while protecting credentials in the native OS keychain.
-
 ## How I Work
 
 I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support. I am especially comfortable learning established systems, diagnosing difficult problems, and delivering maintainable improvements without unnecessary complexity.
