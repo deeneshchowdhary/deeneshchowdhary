@@ -1,6 +1,4 @@
-# Hi, I’m Deenesh Chowdhary 👋
-
-I’m a senior-level full-stack software engineer with nearly 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
+I’m a senior-level full-stack software engineer with 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
 
 My experience includes enterprise donation and payment systems handling **millions of transaction records**, more than **100 paid freelance projects**, and a database migration that reduced the transfer footprint by approximately **10:1**.
 
