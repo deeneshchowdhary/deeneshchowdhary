@@ -1,6 +1,6 @@
-I’m a senior-level full-stack software engineer with 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
+I'm a senior-level full-stack software engineer with 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
 
-My experience includes enterprise donation and payment systems handling **millions of transaction records**, more than **100 paid freelance projects**, and a database migration that reduced the transfer footprint by approximately **10:1**.
+My experience includes enterprise donation and payment systems handling **millions of transaction records**, **Over 100+ paid freelance projects** (Top Rated, **100% Job Success Score**), and a database migration that reduced the transfer footprint by approximately **10:1**.
 
 [Portfolio](https://deeneshchowdhary.github.io/deenesh/) · [LinkedIn](https://www.linkedin.com/in/deeneshchowdhary/) · [EnvCause on PyPI](https://pypi.org/project/envcause/)
 
@@ -9,6 +9,7 @@ My experience includes enterprise donation and payment systems handling **millio
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -16,7 +17,7 @@ My experience includes enterprise donation and payment systems handling **millio
 
 ## Engineering Focus
 
-- Full-stack applications with C#/.NET, Angular, React, TypeScript, and Node.js
+- Full-stack applications with C#/.NET, Angular, React, Vue.js, TypeScript, and Node.js
 - REST APIs, background processing, authentication, and system integrations
 - SQL Server, PostgreSQL, MySQL, database design, and performance optimization
 - Azure, AWS, Google Cloud, Docker, automated testing, and CI/CD
@@ -32,10 +33,14 @@ Open-source Python tool that uses delta debugging to isolate configuration chang
 
 ASP.NET Core and SQL Server API featuring EF Core, Azure Functions, automated tests, observability, and Azure DevOps deployment.
 
+### eShelf — Digital Asset Management Platform
+
+Led early technical direction for an agency's DAM platform — built and deployed the original MVP, then directed the architecture migration to Vue.js/Nuxt.js and Express while coordinating an outsourced engineering team through to production.
+
 ## How I Work
 
 I take ownership from requirements and architecture through implementation, testing, deployment, monitoring, and production support. I am especially comfortable learning established systems, diagnosing difficult problems, and delivering maintainable improvements without unnecessary complexity.
 
 I use AI-assisted engineering workflows where they improve productivity while remaining responsible for architecture, correctness, security, testing, and maintainability.
 
-📍 Oklahoma, USA 
+📍 Oklahoma, USA
