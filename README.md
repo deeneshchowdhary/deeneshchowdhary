@@ -1,6 +1,6 @@
-I'm a senior-level full-stack software engineer with 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
+I'm a **Senior Software Engineer at Truity Credit Union** and a full-stack engineer with 12 years of experience building, modernizing, and supporting business-critical applications, APIs, databases, and cloud systems.
 
-My experience includes enterprise donation and payment systems handling **millions of transaction records**, **Over 100+ paid freelance projects** (Top Rated, **100% Job Success Score**), and a database migration that reduced the transfer footprint by approximately **10:1**.
+My experience includes enterprise donation and payment systems handling **millions of transaction records**, **100+ paid freelance projects** (Top Rated, **100% Job Success Score**), and a database migration that reduced the transfer footprint by approximately **10:1**.
 
 [Portfolio](https://deeneshchowdhary.github.io/deenesh/) · [LinkedIn](https://www.linkedin.com/in/deeneshchowdhary/) · [EnvCause on PyPI](https://pypi.org/project/envcause/)
 
@@ -14,6 +14,10 @@ My experience includes enterprise donation and payment systems handling **millio
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+## Currently
+
+🏦 Senior Software Engineer at **Truity Credit Union**, building and supporting software for financial services.
 
 ## Engineering Focus
 
